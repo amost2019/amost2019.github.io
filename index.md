@@ -1,5 +1,6 @@
 ##About
-###15th Workshop on Advances in Model Based Testing (A-MOST) @ICST 2019,
+
+###15th Workshop on Advances in Model Based Testing (A-MOST) @ICST 2019, VVVVV
 
 The increasing complexity and need for assurance of software-based systems pose new challenges for testing. Model Based Testing (MBT) is an important research area, where new approaches, methods and tools make MBT techniques more useful and applicable in industry, contributing to improve the effectiveness and efficiency of the test process. Models and different abstractions can ease comprehension of a complex system and allow the systematization and automation of test generation. A-MOST 2018 will bring together researchers and practitioners interested in the topic of Model Based Testing. Using models for designing and testing software is currently one of the most salient industrial trends with significant impact on the development and testing processes. Model-based tools and methods have been successfully applied and continue to converge into comprehensive approaches to software and system engineering. The area encompasses models derived from object-oriented software engineering, formal methods, and other mathematical and engineering disciplines.
 
