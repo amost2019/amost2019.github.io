@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 title: 15th Workshop on Advances in Model Based Testing (A-MOST) 2019
+
+
+plugins:
+  - jekyll-sitemap
