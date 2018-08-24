@@ -1,3 +1,8 @@
+---
+title: Homepage
+menus: header
+---
+
 ## About
 
 ### 15th Workshop on Advances in Model Based Testing (A-MOST) @ICST 2019, VVVVV
