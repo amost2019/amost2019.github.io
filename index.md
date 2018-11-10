@@ -5,7 +5,7 @@ menus: header
 
 ## About
 
-### 15th Workshop on Advances in Model Based Testing (A-MOST) @ICST 2019, 22 or 26 April 2019
+### 15th Workshop on Advances in Model Based Testing (A-MOST) @ICST 2019, 22nd April 2019
 
 Workshop of the [ICST2019](http://icst2019.xjtu.edu.cn/)
 
