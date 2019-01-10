@@ -1,7 +1,7 @@
 # Important dates
 
 ### Abstract submission
-Jan 12, 2019
+Jan 13, 2019
 
 ### Paper submission
 ~~Jan 12, 2019~~ Jan 20, 2019
