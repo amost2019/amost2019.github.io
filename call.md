@@ -27,7 +27,7 @@ Topics and sub-topics (not exhaustive):
 
 ## Submission format
 ### Full and short papers
-Papers should not exceed 8 pages (including all text, figures, references) for full papers or 4 pages for short experience and position papers. Each submitted paper must conform to the IEEE two-column publication format. Papers will be reviewed by at least three members from the program committee. Accepted papers will be published in the IEEE Digital Library.
+Papers should not exceed 8 pages for full papers or 4 pages for short experience and position papers (including all text, figures, references - but it is not a limit, if you need more space contact the chairs). Each submitted paper must conform to the IEEE two-column publication format. Papers will be reviewed by at least three members from the program committee. Accepted papers will be published in the IEEE Digital Library.
 ### Communication abstracts
 We also solicit communication abstracts (talk proposals within 1 page) this year, which may be based on already published papers in relevant well- known venues (conferences or journals) or purely industrial-oriented experience. These will be selected based on their relevance and quality. Selected abstracts will be presented and discussed in the workshop, similar to the regular papers, but will not be included in the proceedings. Though, their titles and abstracts will be mentioned in the workshop summary. 
 
