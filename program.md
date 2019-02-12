@@ -1,6 +1,3 @@
----
-title: Program
----
 ## Accepted Papers
 
 - *Paolo Arcaini and Elvinia Riccobene* Automatic Refinement of ASM Abstract Test Cases
