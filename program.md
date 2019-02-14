@@ -7,7 +7,7 @@ Software systems now directly sense and manipulate the physical word (Cyber-Phys
 
 ### Biography
 
-Fuyuki Ishikawa is Associate Professor at Information Systems Architecture Science Research Division, and also Deputy Director at GRACE Center, in National Institute of Informatics, Japan. His interests are in software engineering for dependability, including formal methods, testing, and optimization, especially for smart and autonomous systems. His publications can be found in key journals and conferences, such as TSE, TPDS, TEVC, TSC, FM, ISSTA, WWW, and ICSOC. Currently, he is leading research groups on dependability of automotive systems and machine learning-based systems, respectively, in two projects (JST ERATO-MMSD and JST MIRAI-QAML). He is also leading key activities in the Japanese industry for quality assurance of machine learning-based systems.
+![ishikawa picture](images/ishikawa.jpg) Fuyuki Ishikawa is Associate Professor at Information Systems Architecture Science Research Division, and also Deputy Director at GRACE Center, in National Institute of Informatics, Japan. His interests are in software engineering for dependability, including formal methods, testing, and optimization, especially for smart and autonomous systems. His publications can be found in key journals and conferences, such as TSE, TPDS, TEVC, TSC, FM, ISSTA, WWW, and ICSOC. Currently, he is leading research groups on dependability of automotive systems and machine learning-based systems, respectively, in two projects (JST ERATO-MMSD and JST MIRAI-QAML). He is also leading key activities in the Japanese industry for quality assurance of machine learning-based systems.
 
 Home page: <https://www.nii.ac.jp/en/faculty/digital_content/ishikawa_fuyuki/>
 
