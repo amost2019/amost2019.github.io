@@ -12,13 +12,24 @@ Software systems now directly sense and manipulate the physical word (Cyber-Phys
 Home page: <http://research.nii.ac.jp/~f-ishikawa/en/>
 
 
-## Accepted Papers
+## Program
 
+8:00-8:50 Registration
+8:50-9:00 Welcome
+9:00-10:00 Keynote given by Fuyuki Ishikawa
+10:00-10:30 Coffee Break
+10:30-12:30 Test Case Generation (three papers)
 - *Paolo Arcaini and Elvinia Riccobene* Automatic Refinement of ASM Abstract Test Cases
-- *Chao Tan, Razieh Behjati and Erik Arisholm* A Model-Based Approach to Generate Dynamic Synthetic Test Data: A Conceptual Model
-- *Jeremy Vanhecke, Xavier Devroey and Gilles Perrouin* AbsCon: A Test Concretizer for Model-based Testing
-- *Josip Bozic and Franz Wotawa* Software Testing: According to Plan!
 - *Omer Nguena-Timo, Alexandre Petrenko and S Ramesh* Using Imprecise Test Oracles Modelled by FSM
-- *Nicolas Bremond and Roland Groz* Case studies in learning models and testing without reset
 - *Bernhard Garn, Dimitris E. Simos, Feng Duan, Yu Lei, Josip Bozic and Franz Wotawa* Weighted Combinatorial Sequence Testing for the TLS Protocol
+12:30-13:30 Lunch
+13:30-15:30 Applications of MBT (three papers)
+- *Jeremy Vanhecke, Xavier Devroey and Gilles Perrouin* AbsCon: A Test Concretizer for Model-based Testing
+- *Nicolas Bremond and Roland Groz* Case studies in learning models and testing without reset
 - *Bernhard K. Aichernig, Benedikt Maderbacher and Stefan Tiran* Programming Behavioral Test Models for SMT Solving in Scala
+15:30-16:00 Coffee Break
+16:00-17:00 Test Management (two papers)
+- *Chao Tan, Razieh Behjati and Erik Arisholm* A Model-Based Approach to Generate Dynamic Synthetic Test Data: A Conceptual Model
+- *Josip Bozic and Franz Wotawa* Software Testing: According to Plan!
+17:00-17:10 Wrap up and close  
+
