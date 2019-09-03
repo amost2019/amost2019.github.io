@@ -21,3 +21,9 @@
 * Gilles	Perrouin	*University of Namur*, Belgium
 * Alexandre	Petrenko	*CRIM*, Canada
 * Shuai	Wang	*Testify AS*, Norway
+
+## Steering Committee:
+
+* Rob Hierons, Brunel University, UK
+* Manuel Núñez, Universidad Complutense de Madrid, Spain
+* Alexander Pretschner, Technische Universität München, Germany
