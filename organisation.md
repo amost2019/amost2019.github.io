@@ -24,6 +24,6 @@
 
 ## Steering Committee:
 
-* Rob Hierons, Brunel University, UK
-* Manuel Núñez, Universidad Complutense de Madrid, Spain
-* Alexander Pretschner, Technische Universität München, Germany
+* Rob Hierons, *University of Sheffield*, UK
+* Manuel Núñez, *Universidad Complutense de Madrid*, Spain
+* Alexander Pretschner, *Technische Universität München*, Germany
